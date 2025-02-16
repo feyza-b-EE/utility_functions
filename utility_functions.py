@@ -4,11 +4,6 @@ Created on Wed Nov  8 18:38:12 2023
 
 @author: Feyza
 """
-my_name = "Ayse Feyza Birer"
-my_id = "220102002033"
-my_email = "a.birer2022@gtu.edu.tr"
-
-
 def problem1(s):
     
     def find_the_king(s):
